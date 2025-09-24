@@ -2,8 +2,8 @@
 
 Getting started:
 
- - Create a new GitHub account using your University of Exeter email (for use in your academic work).
- - Sign into the account
+ - Goto https://github.com/signup and create a new GitHub account using your University of Exeter email (for use in your academic work).
+ - Sign into the account 
  - Goto https://classroom.github.com/a/7UFdGukz and click to accept the assignment
  - Click to Launch in CodeSpaces. You will see a web interface to CodeSpaces (based on VS Code).
 
@@ -15,7 +15,7 @@ unzip template_code.zip
 rm template_code.zip
 ```
 
-You should see four files `ex1_variables.py` - `ex4_fstrings.py` in the explorer. Double click on `ex1_variables.py` and follow the instructions below. After completing the activity please follow the instructions on ELE to save and send your work for marking.
+You should see four files `ex1_variables.py` - `ex4_fstrings.py` in the explorer. Double click on `ex1_variables.py` and follow the instructions below. After completing the activity please follow the instructions on ELE to save and send your work for grading.
 
 # Workshop Week 1b
 
