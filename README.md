@@ -10,10 +10,11 @@ Getting started:
 When CodeSpaces opens copy and paste the following into the terminal to download the template code files:
 
 ```
-curl https://github.com/phil-lewis-exe/COMM109_Week01_Workshop1b/blob/44a76037fea0fa76c63d6b875cd735c3eaaa09a1/template_code.zip -o ./template_code.zip 
+wget https://github.com/phil-lewis-exe/COMM109_Week01_Workshop1b/raw/refs/heads/main/template_code.zip
 unzip template_code.zip
 rm template_code.zip
 ```
+
 You should see four files `ex1_variables.py` - `ex4_fstrings.py` in the explorer. Double click on `ex1_variables.py` and follow the instructions below. After completing the activity please follow the instructions on ELE to save and send your work for marking.
 
 # Workshop Week 1b
