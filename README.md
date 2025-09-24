@@ -5,7 +5,7 @@ Getting started:
  - Goto https://github.com/signup and create a new GitHub account using your University of Exeter email (for use in your academic work).
  - Sign into the account 
  - Goto https://classroom.github.com/a/7UFdGukz and click to accept the assignment
- - Click to Launch in CodeSpaces. You will see a web interface to CodeSpaces (based on VS Code).
+ - Click to Launch in CodeSpaces. You will see a web interface to CodeSpaces (based on VS Code). It may take a couple of minutes to initialise.
 
 When CodeSpaces opens copy and paste the following into the terminal to download the template code files:
 
