@@ -10,7 +10,7 @@ Getting started:
 When CodeSpaces opens copy and paste the following into the terminal to download the template code files:
 
 ```
-curl https://raw.githubusercontent.com/philip-lewis-exe/COMM109_Week01_Workshop1b/refs/heads/main/template_code.zip -o ./template_code.zip 
+curl https://github.com/phil-lewis-exe/COMM109_Week01_Workshop1b/blob/44a76037fea0fa76c63d6b875cd735c3eaaa09a1/template_code.zip -o ./template_code.zip 
 unzip template_code.zip
 rm template_code.zip
 ```
