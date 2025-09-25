@@ -166,7 +166,7 @@ When completed, your file should output six lines of text.
 
 Q1. 
 
-Display string `s1` with each word capitalised.
+Display string `s1` with the first letter of each word capitalised.
 
 ---
 
