@@ -1,5 +1,7 @@
 **COMM109 Week01 Workshop1b**
 
+**NOTE** To run your code file type `python ex1_variables.py` etc in the terminal window, or you can install the Python extension (should pop up in the bottom RHS of the screen) and use the triangle button.
+
 Getting started:
 
  - Goto https://github.com/signup and create a new GitHub account using your University of Exeter email (for use in your academic work).
