@@ -272,3 +272,36 @@ It's percentage fat is ______%
 
 ---
 
+## Submitting your work
+
+### Committing Your Changes to GitHub via the Terminal
+
+The final step is to save your work back to the GitHub Classroom repository for marking. 
+
+We will do this by typing `git` commands in the terminal. This process is called "committing" and "pushing" your work from your CodeSpace to your GitHub code repository (you can find a list of the code repositories you have created on the http://github.com website. 
+
+1. **Check the Status:** First, we can check the differences between the files you have worked on in the CodeSpaces IDE and the GitHub repository. In your terminal, type the `git status` command to see the files that have been created or modified.
+   
+   ```bash
+   git status
+   ```
+   This will show you that the files you have worked on have been "modified" or created in which case they are listed as an "untracked file".
+
+3. **Stage Your Changes:** Before you can commit a file, you need to add it to the "staging area". This tells Git exactly which changes you want to include in the next snapshot.
+   * To add one specific file, you would use: `git add ex1_variables.py`
+   * If you have changed multiple files and want to stage them all, it's more efficient to use a period (`.`), which means "all files in the current directory and subdirectories".
+   ```bash
+   git add .
+   ```
+
+4. **Commit the Changes:** Now, take a snapshot of the staged changes. This is called a commit. It's important to include a descriptive message about the work you did using the `-m` flag.
+   ```bash
+   git commit -m "Completed workshop 1.1b"
+   ```
+   Git will confirm that the commit has been made.
+
+5. **Push to GitHub:** The commit is saved locally in your Codespace. The final step is to "push" it up to your personal forked repository on GitHub.com.
+   ```bash
+   git push
+   ```
+6. **Check your work has been submitted to GitHub:** Find the repository which should be listed on your http://github.com user page. Check that the files and code have been saved. If there is an issue get in touch with the teaching team who should be able to help. This week your work is not being assessed as part of you portfolio, but in future weeks is will be.
