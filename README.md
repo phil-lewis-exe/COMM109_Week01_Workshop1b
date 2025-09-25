@@ -25,7 +25,7 @@ After completing the activity please follow the final instructions at the bottom
 
 **Add the answers into the template file `ex1_variables.py`. The first answer is completed as an example.**
 
-In each case choose from `int`, `float` or `string`.
+In each case choose from `int`, `float` or `str`.
 
 Q1. In Python the code below will create what data type?
 
